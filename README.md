@@ -1,1 +1,3 @@
-# QGIS_Plugin_for_OAGM_2022
+# QGIS Plugin for OAGM 2022
+
+Code will be pulished soon.
